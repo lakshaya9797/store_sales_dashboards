@@ -85,7 +85,7 @@ This repository contains an interactive **Power BI Dashboard** developed for ana
 
 ## 👤 Author
 
-* **GitHub:** [@your-username](https://github.com/your-username)
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+* **GitHub:** [@your-username](https://github.com/lakshaya9797)
+* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/lakshaya9797)
 
 *⭐ Feel free to star this repository if you found it helpful!*
